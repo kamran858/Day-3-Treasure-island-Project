@@ -25,4 +25,5 @@ What I Learned
 	•	Proper indentation in Python
 	•	Handling user input
 	•	Creating game logic with conditional flow
-This project is part of the 100 Days of Code - Python Pro Bootcamp
+## Credits
+“This project is part of the 100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu. I followed the course material to practice and improve my Python skills.”
